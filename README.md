@@ -18,7 +18,7 @@ In this project we create a **Panoramic photo** by stitching 4 photos, by extrac
 In this project we classify part of the **Caltech-256** Dataset  by training a BoV model using **k-means**
 and then using the following classifiers:
 - Support Vector Machines (One vs all)
-- K nearest neighbor   
+- K nearest neighbors   
 
 For all methods many hyperparameter comparisons were made
 
