@@ -14,10 +14,16 @@ Given 2 same images from a microscope (One with added Salt and Pepper Noise)
 In this project we create a **Panoramic photo** by stitching 4 photos, by extracting their features using the 
 **SURF** and **SIFT** algorithms
 
-## Project 3 - Image Classification using Bag of Visual Words Model
+## Project 3 - Image Classification using Bag of Visual Words Model 
 In this project we classify part of the **Caltech-256** Dataset  by training a BoV model using **k-means**
 and then using the following classifiers:
 - Support Vector Machines (One vs all)
 - K nearest neighbor   
 
 For all methods many hyperparameter comparisons were made
+
+## Project 4 - Image Classification using Convolutional Neural Netwroks (CNN)
+In the final project we classify the same dataset of the previous one using 
+- Different **Deep Neural Network** architectures
+- Data Augmentations
+- Transfer Learning
